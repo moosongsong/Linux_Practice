@@ -1,7 +1,11 @@
 <component name="ProjectDictionaryState">
   <dictionary name="linux">
     <words>
+      <w>csock</w>
+      <w>moosong</w>
       <w>myfifo</w>
+      <w>setsockopt</w>
+      <w>ssock</w>
     </words>
   </dictionary>
 </component>
