@@ -6,6 +6,7 @@
       <w>myfifo</w>
       <w>nfds</w>
       <w>pollfd</w>
+      <w>readn</w>
       <w>saddr</w>
       <w>setsockopt</w>
       <w>ssock</w>
