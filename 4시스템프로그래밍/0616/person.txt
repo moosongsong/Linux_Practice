@@ -1,0 +1,4 @@
+daniel 20
+susan 30
+andrew 40
+monica 50
